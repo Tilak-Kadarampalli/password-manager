@@ -1,0 +1,43 @@
+.password-form-cont {
+  display: flex;
+  flex-direction: row;
+  background-color: #5763a5;
+  width: 90vw;
+  padding: 30px;
+  margin-bottom: 20px;
+  justify-content: space-around;
+}
+
+.password-list-cont {
+  display: flex;
+  flex-direction: column;
+  background-color: #5763a5;
+}
+
+.main-cont {
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+}
+
+.form-div {
+  background-color: #454f84;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 40vw;
+}
+
+.form-img {
+  width: 400px;
+}
+
+.form-submit-btn {
+  width: 100px;
+  background-color: blue;
+  color: white;
+  border: 0px;
+  padding: 10px;
+  align-self: flex-end;
+  margin-top: 20px;
+}
